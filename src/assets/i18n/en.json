@@ -6,20 +6,19 @@
     "Header.cvBtn": "Resume",
     "Header.cvName": "Mohsin_CV.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>1 years of experience in </span> developing  AI systems, interfaces, bots, and technological solutions to make the web  a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular,Computer Vision , Deep Learning</span> and sometimes in <span class='underline'>JavaScript</span> applying good practices and development standards.",
+    "Banner.Description": "I have <span class='underline'><strong>1 year of experience</strong></span> in developing cutting-edge AI systems, dynamic interfaces, and intelligent bots, all aimed at enhancing web functionality and user experience. I am committed to writing and refactoring <span class='underline'><strong>clean, reusable, and scalable code</strong></span> in <span class='underline'><strong>Angular</strong></span>, <span class='underline'><strong>Computer Vision</strong></span>, and <span class='underline'><strong>Deep Learning</strong></span>, with occasional work in <span class='underline'><strong>JavaScript</strong></span>. My work is driven by a dedication to applying best practices and development standards to deliver high-quality, impactful solutions.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-        "My skills also include implementing AI solutions, optimizing sites, Computer Vision, and suggesting and executing ideas that add value to the project I'm working on.",
-        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+        "In my <strong> one year of experience in AI </strong>, I have become proficient in developing and optimizing machine learning models, implementing innovative solutions, and collaborating with cross-functional teams to tackle complex problems. My hands-on experience includes analyzing large datasets, performing continuous integration of AI models, and adapting to evolving technologies in the field "
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
          {
-            "Tab": " 1. Code Alpha",
+            "Tab": " Code Alpha",
             "Title": "Machine Learning Intern",
             "Date": "July 2024 - September 2024",
+
             "Description": [
                 "Assisted in the development and implementation of machine learning models using libraries such as TensorFlow, Keras, and scikit-learn to solve real-world problems and enhance data-driven decision-making.",
                 "Employed visualization tools like Matplotlib and Seaborn to analyze data and model performance, providing actionable insights and recommendations.",
@@ -28,10 +27,10 @@
                 "Participated in research and analysis of new machine learning techniques, exploring and implementing advanced algorithms to enhance existing solutions."
             ]
         },
-        {
-            "Tab": "   2. Steam Genius Club    ",
+        {      "Tab": " Steam Genius Club",
             "Title": "STEM Instructor",
             "Date": "June,2024 - July,2024",
+            
             "Description": [
                 "Taught Python programming, Arduino robotics, and LEGO robotics, enhancing students' practical skills and understanding in STEM fields.",
                 "Designed and delivered engaging lesson plans and hands-on projects, promoting interactive learning and problem-solving abilities.",
@@ -43,7 +42,7 @@
         
        
         {
-            "Tab": " 3.  Muslim Scientific Corporation    ",
+            "Tab": "  Muslim Scientific Corporation    ",
             "Title": "  Embedded Software Engineer  ",
             "Date": "April 2024 - June 2024",
             "Description": [
@@ -54,7 +53,7 @@
             ]
         },
         {
-            "Tab": " 4.  Rex Technologies  ",
+            "Tab": "   Rex Technologies  ",
             "Title": "Associate Software Engineer ",
             "Date": "Aug 2023 - Nov 2023",
             "Description": [
@@ -65,7 +64,7 @@
             ]
         },
         {
-            "Tab": "  5. Elektronik-2000     ",
+            "Tab": "   Elektronik-2000     ",
             "Title": "Embedded Software Engineer",
             "Date": "November 2021 - Jan 2023",
             "Description": [
