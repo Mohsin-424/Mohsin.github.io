@@ -4,6 +4,17 @@
       <li>
         <a
           (click)="
+            analyticsService.sendAnalyticEvent('click_email', 'footer', 'email')
+          "
+          href="mailto:mohsin.edu.ee@gmail.com"
+          target="_blank"
+        >
+          <i class="https://icons8.com/icon/GoQbcSSHazaK/at-sign"></i>
+        </a>
+      </li>
+      <li>
+        <a
+          (click)="
             analyticsService.sendAnalyticEvent(
               'click_github',
               'footer',
@@ -16,6 +27,7 @@
           <i class="fab fa-github"></i>
         </a>
       </li>
+
       <li>
         <a
           (click)="
@@ -61,7 +73,7 @@
       target="_blank"
       rel="nofollow noopener noreferrer"
     >
-      <div>Built with Angular by Engineer Muhammad Mohsin</div>
+      <div>Built with Angular by Muhammad Mohsin</div>
     </a>
     <a
       (click)="
@@ -75,7 +87,7 @@
       target="_blank"
       rel="nofollow noopener noreferrer"
     >
-      <div class="mt-2">Designed by Muhammad Mohsin</div>
+      <!-- <div class="mt-2">Designed by Muhammad Mohsin</div> -->
     </a>
   </div>
 </footer>
